@@ -1,4 +1,31 @@
-# Grunge Astro Template
+# Grunge 
+Grunge is a portfolio Astro theme with a grunge aesthetic, perfect for developers, designers and any other creative who wants to stand out and show their love for the 90s music scene. 
+
+## Tech stack
+- Astro
+- Tailwind v4
+- JavaScript
+
+## Pages
+- Home
+- Works
+- Individual Work
+- About
+- Contact
+- 404
+
+## Features
+- Content collections
+- Reusable components
+- Tailwind theme
+- Pagination
+- Sitemap
+- Ongoing updates
+
+If you have any questions, feel free to reach out:
+- Twitter: @_gasparjs
+- Email: jessgaspardev@gmail.com
+
 
 ## 🚀 Project Structure
 
@@ -68,6 +95,7 @@ Inside of your template, you'll see the following folders and files:
 │   └── content.config.ts
 └── .gitignore
 └── astro.config.ts
+└── LICENSE
 └── package-lock.json
 └── README.md
 └── tsconfig.json
@@ -86,3 +114,4 @@ All commands are run from the root of the project, from a terminal:
 | `npm run preview`         | Preview your build locally, before deploying     |
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
+

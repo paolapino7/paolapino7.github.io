@@ -12,5 +12,5 @@ export default defineConfig({
   },
 
   integrations: [sitemap()],
-  site: "https://paolapino7.github.io"
+  site: "https://grunge.pages.dev"
 });

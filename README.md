@@ -43,7 +43,7 @@ You'll see the following folders and files:
 │   ├── layouts/       # Global Page Templates
 │   └── assets/        # Technical diagrams and project images
 └── public/            # Static assets and favicons
-
+```
 
 ## 🧞 Commands
 

@@ -7,7 +7,7 @@ const works = defineCollection({
         title: z.string().max(50),
         slug: z.string(),
         client: z.string().max(50),
-        category: z.enum(["AI & Assistive Tech", "Web Design", "Embedded Systems", "Industrial Data Automation", "HMI & Control Systems"]),
+        category: z.enum(["AI & Assistive Tech", "Web Design", "Embedded Systems", "Industrial Data Automation", "HMI & Control Systems", "Industrial Software"]),
         services: z.string().max(150),
         year: z.string().max(4),
         featuredImage: image(),

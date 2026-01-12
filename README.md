@@ -28,8 +28,8 @@ Comprehensive data architecture for **TAIMEC**, managing thousands of industrial
 
 ## 🔧 Technical Toolkit
 
-* **Languages:** Python, MATLAB, C++ (Arduino/ESP32), VBA.
-* **Systems:** Industry 4.0, HMI Design, PID.
+* **Languages:** Python, JavaScript, MATLAB, C++ (Arduino/ESP32/Raspberry PI), VBA.
+* **Systems:** Industry 4.0, HMI Design, Data Automation, Programming.
 
 ## 🚀 Project Structure
 

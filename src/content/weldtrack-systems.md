@@ -9,7 +9,7 @@ featuredImage: "./images/weldtrack/1.jpg"
 imageTwo: "./images/weldtrack/2.jpg"
 imageThree: "./images/weldtrack/3.jpg"
 imageFour: "./images/weldtrack/4.jpg"
-liveSite: "#"
+liveSite: "javascript:void(0)"
 description: "Advanced automation suite designed to manage Welder Logs and technical accreditations in real-time for heavy industry projects."
 isFeatured: true
 isDraft: false

@@ -9,7 +9,7 @@ featuredImage: "./images/safenav/1.jpg"
 imageTwo: "./images/safenav/2.jpg"
 imageThree: "./images/safenav/3.jpg"
 imageFour: "./images/safenav/4.jpg"
-liveSite: "#"
+liveSite: "javascript:void(0)"
 description: "Smart assistive device for the visually impaired utilizing infrared sensors and Arduino-ESP32 processing to deliver real-time AI voice alerts."
 isFeatured: true
 isDraft: false

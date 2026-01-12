@@ -9,7 +9,7 @@ featuredImage: "./images/concepts/1.jpg"
 imageTwo: "./images/concepts/2.jpg"
 imageThree: "./images/concepts/3.jpg"
 imageFour: "./images/concepts/4.jpg"
-liveSite: "#"
+liveSite: "javascript:void(0)"
 description: "Developed and launched a dedicated web platform to increase the digital visibility of the laboratory's specialized services, ongoing projects, and technical personnel. Designed to bridge the gap between complex research activities and stakeholder accessibility through a centralized, intuitive interface."
 isFeatured: true
 isDraft: false

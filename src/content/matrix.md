@@ -9,7 +9,7 @@ featuredImage: "./images/matrix/1.jpg"
 imageTwo: "./images/matrix/2.jpg"
 imageThree: "./images/matrix/3.jpg"
 imageFour: "./images/matrix/4.jpg"
-liveSite: "https://astro.build"
+liveSite: "https://www.linkedin.com/feed/update/urn:li:activity:7384649870747516929/?originalSubdomain=es"
 description: "Comprehensive technical database for the identification and management of thousands of industrial assets, including valves and piping accessories."
 isFeatured: false
 isDraft: false

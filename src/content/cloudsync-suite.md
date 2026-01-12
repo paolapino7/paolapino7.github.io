@@ -4,13 +4,13 @@ slug: "cvision"
 client: "Universidad de las Fuerzas Armadas ESPE"
 category: "AI & Assistive Tech"
 services: "Computer Vision Integration, Machine Learning Models, User-Centric Engineering"
-year: "2024-2025"
+year: "2025"
 featuredImage: "./images/cloudsync-suite/1.jpg"
 imageTwo: "./images/cloudsync-suite/2.jpg"
 imageThree: "./images/cloudsync-suite/3.jpg"
 imageFour: "./images/cloudsync-suite/4.jpg"
-liveSite: "https://astro.build"
-description: "Advanced assistive technology platform that integrates computer vision and machine learning to revolutionize spatial navigation for the visually impaired. Built to operate in real-time across diverse indoor and outdoor environments, the system prioritizes safety and user autonomy by accurately detecting physical barriers and terrain variations. The architecture focuses on reducing cognitive load while providing intuitive feedback, transforming complex environmental data into a seamless mobility experience."
+liveSite: "https://rraae.cedia.edu.ec/vufind/Record/ESPE_de27493e0cc6494abc57eb2e690e9ebb/Description?sid=3359352"
+description: "Advanced assistive technology integrating computer vision and machine learning to revolutionize spatial navigation for the visually impaired. Built for real-time indoor and outdoor use, the system prioritizes autonomy by detecting barriers and terrain variations, transforming complex data into a seamless mobility experience."
 isFeatured: true
 isDraft: false
 ---

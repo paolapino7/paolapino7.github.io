@@ -9,7 +9,7 @@ featuredImage: "./images/weldtrack/1.jpg"
 imageTwo: "./images/weldtrack/2.jpg"
 imageThree: "./images/weldtrack/3.jpg"
 imageFour: "./images/weldtrack/4.jpg"
-liveSite: "https://astro.build"
+liveSite: "https://github.com/paolapino7/paolapino7.github.io/blob/main/src/content/images/weldtrack/1.jpg"
 description: "Advanced automation suite designed to manage Welder Logs and technical accreditations in real-time for heavy industry projects."
 isFeatured: true
 isDraft: false

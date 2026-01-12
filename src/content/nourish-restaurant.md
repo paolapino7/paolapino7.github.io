@@ -1,22 +1,22 @@
 ---
-title: "Nourish Restaurant"
-slug: "nourish-restaurant"
-client: "Nourish Restaurant Group"
-category: "Web Design"
-services: "Art Direction, Digital Campaign, Brand Activation"
+title: "WeldTrack Systems"
+slug: "weldtrack-systems"
+client: "Sedemi"
+category: "Industrial Data Automation"
+services: "VBA Macro Development, Power BI Dashboards, Process Optimization"
 year: "2025"
-featuredImage: "./images/nourish/1.jpg"
-imageTwo: "./images/nourish/2.jpg"
-imageThree: "./images/nourish/3.jpg"
-imageFour: "./images/nourish/4.jpg"
+featuredImage: "./images/weldtrack/1.jpg"
+imageTwo: "./images/weldtrack/2.jpg"
+imageThree: "./images/weldtrack/3.jpg"
+imageFour: "./images/weldtrack/4.jpg"
 liveSite: "https://astro.build"
-description: "Comprehensive art direction and visual campaign for farm-to-table restaurant group expanding into three new cities. The campaign celebrates local ingredients, seasonal menus, and community connections through authentic photography, environmental graphics, and digital experiences that feel warm and inviting."
+description: "Advanced automation suite designed to manage Welder Logs and technical accreditations in real-time for heavy industry projects."
 isFeatured: true
 isDraft: false
 ---
 
-Nourish Restaurant Group built their reputation on genuine relationships with local farmers and seasonal cooking, but their expansion into new markets required a visual strategy that could communicate these values to unfamiliar audiences. The challenge was creating a campaign that felt authentic and local while maintaining consistency across different cities with unique food cultures and aesthetics.
+In high-stakes industrial environments, managing technical certifications and project progress manually often leads to operational bottlenecks. The challenge was to replace a traditional, error-prone recording system with a robust digital ecosystem capable of tracking Welder Logs and certification validity in real-time. This required a solution that could handle complex technical data while remaining accessible for field supervisors and project managers.
 
-We developed a visual language centered on the beauty of imperfection – celebrating the natural variations in ingredients and the honest craft of cooking. Our photography direction emphasized natural lighting, real textures, and unposed moments that capture the energy of working kitchens and thriving farms. 
+I developed an advanced automation suite using VBA Macros and Power BI to centralize and visualize critical workforce data. The system features a custom logic that monitors welder accreditations, triggering visual alerts before certifications expire to ensure compliance and prevent downtime. By integrating these automated logs with interactive dashboards, I transformed raw operational data into actionable insights, providing a "single source of truth" for the entire project lifecycle.
 
-The campaign successfully supported Nourish's expansion, with all three new locations exceeding first-year revenue projections by 25%. The authentic visual approach resonated strongly with target demographics, leading to significant social media engagement and earned media coverage. 
+The implementation of this system significantly reduced manual data entry errors and optimized the accreditation workflow. The Power BI dashboards offered the management team instant visibility into work-in-progress metrics, allowing for data-driven decision-making and more precise resource allocation. This project serves as a prime example of how tailored software solutions can bring Industry 4.0 efficiency to traditional heavy industry processes.

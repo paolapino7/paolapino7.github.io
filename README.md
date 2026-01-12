@@ -1,106 +1,48 @@
-# Grunge 
-Grunge is a portfolio Astro theme with a grunge aesthetic, perfect for developers, designers and any other creative who wants to stand out and show their love for the 90s music scene. 
+# Paola Pino | Mechatronics Portfolio ⚙️
 
-## Tech stack
-- Astro
-- Tailwind v4
-- JavaScript
-- TypeScript
+Professional portfolio built with **Astro**, focusing on Industrial Automation, Artificial Intelligence, and Embedded Systems. This site showcases a hybrid engineering profile dedicated to bridging the gap between physical machinery and digital intelligence.
 
-## Pages
-- Home
-- Works
-- Individual Work
-- About
-- Contact
-- 404
+## 🛠️ Tech Stack
 
-## Features
-- Content collections
-- Reusable components
-- Tailwind theme
-- Pagination
-- Sitemap
-- Ongoing updates
+* **Framework:** [Astro](https://astro.build/) (Static Site Generator).
+* **Styling:** Tailwind CSS (Minimalist-Grunge Aesthetic).
+* **Language:** TypeScript & Markdown.
+* **Deployment:** GitHub Pages.
 
-If you have any questions, feel free to reach out:
-- Twitter: @_gasparjs
-- Email: jessgaspardev@gmail.com
+## 🚀 Featured Projects
 
+### [CVision](src/content/cvision.md)
+Advanced assistive technology integrating **Computer Vision** and **Machine Learning** to revolutionize spatial navigation for the visually impaired.
+
+### [SafeNav](src/content/safenav.md)
+A smart assistive device utilizing **dual-ESP32 architecture** and **Bluetooth audio protocols** to deliver real-time AI voice alerts based on infrared sensor data.
+
+### [WeldTrack Systems](src/content/weldtrack-systems.md)
+Industrial automation suite developed for **SEDEMI**, using **VBA Macros** and **Power BI** to manage welder certifications and real-time project compliance.
+
+### [Power & Thermal HMI](src/content/hmi.md)
+A high-performance HMI's suite designed to bridge theoretical modeling with physical control.
+
+### [Technical Asset Matrix](src/content/matrix.md)
+Comprehensive data architecture for **TAIMEC**, managing thousands of industrial assets, valves, and instrumentation through optimized identification systems.
+
+## 🔧 Technical Toolkit
+
+* **Languages:** Python, MATLAB, C++ (Arduino/ESP32), VBA.
+* **Systems:** Industry 4.0, HMI Design, PID.
 
 ## 🚀 Project Structure
 
-Inside of your template, you'll see the following folders and files:
+You'll see the following folders and files:
 
 ```text
 /
-├── public/
-│   └── favicon.svg
-├── src
-│   ├── assets
-│   │   └── images
-│   │   └── ui
-│   │   └── work-card
-│   ├── components
-│   │   ├── elements     # elements that can be used across the website
-│   │   │   └── Container.astro
-│   │   │   └── ContainerBottom.astro
-│   │   │   └── Heading.astro
-│   │   │   └── ImageContainer.astro
-│   │   │   └── Link.astro
-│   │   │   └── Text.astro
-│   │   │   └── Dropdown.astro
-│   │   │   └── ResumeDropdown.astro
-│   │   │   └── Work.astro
-│   │   ├── global       # elements used on very page
-│   │   │   └── BaseHead.astro
-│   │   │   └── Footer.astro
-│   │   │   └── Navigation.astro
-│   │   │   └── Wrapper.astro
-│   │   ├── sections    # components used on each section of each page
-│   │   │   └── about
-│   │   │   │   └── Education.astro 
-│   │   │   │   └── Experience.astro 
-│   │   │   │   └── Intro.astro 
-│   │   │   ├── contact
-│   │   │   │   └── ContactDetails.astro 
-│   │   │   │   └── ContactItem.astro 
-│   │   │   │   └── Intro.astro 
-│   │   │   ├── home
-│   │   │   │   └── About.astro 
-│   │   │   │   └── Faq.astro 
-│   │   │   │   └── Hero.astro 
-│   │   │   │   └── SelectedWorks.astro 
-│   │   │   │   └── Services.astro 
-│   │   │   ├── works
-│   │   │   │   └── Pagination.astro 
-│   │   │   │   └── Works.astro
-│   ├── components
-│   │   ├── images
-│   │   │   └── (folders for each post - add your project images here)
-│   │   └── project-title.md
-│   │   └── (add your projects here)
-│   ├── layouts
-│   │   └── Layout.astro
-│   ├── pages
-│   │   └── works
-│   │   │   └── [...page].astro
-│   │   │   └── [page].astro
-│   │   └── index.astro
-│   │   └── 404.astro
-│   │   └── about.astro
-│   │   └── contact.astro
-│   ├── styles
-│   │   └── global.css  # global styling and tailwind theme configuration
-│   │   └── markdown.css  # markdown files styling
-│   └── content.config.ts
-└── .gitignore
-└── astro.config.ts
-└── LICENSE
-└── package-lock.json
-└── README.md
-└── tsconfig.json
-```
+├── src/
+│   ├── content/       # Project data (.md files)
+│   ├── components/    # UI Elements (Astro components)
+│   ├── layouts/       # Global Page Templates
+│   └── assets/        # Technical diagrams and project images
+└── public/            # Static assets and favicons
 
 
 ## 🧞 Commands

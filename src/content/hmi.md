@@ -9,7 +9,7 @@ featuredImage: "./images/hmi/1.jpg"
 imageTwo: "./images/hmi/2.jpg"
 imageThree: "./images/hmi/3.jpg"
 imageFour: "./images/hmi/4.jpg"
-liveSite: "https://astro.build"
+liveSite: "#"
 description: "A high-performance HMI's suite designed to bridge theoretical modeling with physical control."
 isFeatured: false
 isDraft: false

@@ -9,7 +9,7 @@ featuredImage: "./images/certification/1.jpg"
 imageTwo: "./images/certification/2.jpg"
 imageThree: "./images/certification/3.jpg"
 imageFour: "./images/certification/4.jpg"
-liveSite: "https://github.com/paolapino7/paolapino7.github.io/blob/main/src/content/images/certification/1.jpg"
+liveSite: "#"
 description: "Digitized truck scale certification systems using JavaScript and APIs, complemented by 3D component design for industrial parts."
 isFeatured: false
 isDraft: false
